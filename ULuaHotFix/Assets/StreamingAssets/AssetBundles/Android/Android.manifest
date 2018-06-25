@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 2772296946
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: common/views/commonviews.prefab.unity3d
+      Dependencies: {}

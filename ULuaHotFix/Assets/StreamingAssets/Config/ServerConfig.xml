@@ -1,0 +1,7 @@
+<root>
+  <record>
+    <id>0</id>
+    <CfgMapURL>http://api.suixinplay.com/mob/ClentConfig/mapping.xml</CfgMapURL>
+    <Version>test</Version>
+  </record>
+</root>
